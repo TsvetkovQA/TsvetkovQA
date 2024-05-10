@@ -19,7 +19,7 @@
 <img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-plain.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jira/jira-plain-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" width="27" height="30" src="https://https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original.svg" style="padding-right:10px;"/>
+<img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" style="padding-right:10px;"/>
 <br />
 <br />
