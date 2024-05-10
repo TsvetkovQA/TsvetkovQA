@@ -14,7 +14,7 @@
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="padding-right:10px;"/>
 <img align="left" width="27" height="27" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
-<img align="left" width="27" height="27" src="https://https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" width="27" height="27" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-plain.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="30" src="https://https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="30" src="https://https://https://github.com/devicons/devicon/blob/v2.14.0/icons/jira/jira-original.svg" style="padding-right:10px;"/>
