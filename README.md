@@ -12,7 +12,7 @@
 ### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
 
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="padding-right:10px"/>
-<img align="left" width="27" height="30" src="https://https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
+<img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-plain.svg" style="padding-right:10px;"/>
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="padding-right:10px;"/>
 <img align="left" width="27" height="27" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="27" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-plain.svg" style="padding-right:10px;"/>
