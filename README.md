@@ -2,6 +2,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Iliya 👋</h2>
 
 ### 👨🏻‍💻 About Me
+- 🔭 I work for a food supplement company as a senior operator
 - 💡 I like mma, photography and mountain walks
 - 📫 Email to contant me - **iliq_tsvetkov@mail.com** or **iliq_tsvetkov@students.softuni.bg**
 - 📚 I am currently learning Python Web Development and QA in Software University (SoftUni)
