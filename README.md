@@ -23,14 +23,3 @@
 <img align="left" width="27" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" style="padding-right:10px;"/>
 <br />
 <br />
-
-### <h2> 🤝🏻 Connect with Me </h2>
-<p align="left">
-  <a href="https://https://www.facebook.com/LICHKATA/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="30" width="40" /></a>
-  <a href="https://https://www.instagram.com/tsvetkoviliq/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      height="30" width="40" /></a>
- 
-</p>
