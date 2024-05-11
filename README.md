@@ -5,7 +5,7 @@
 - 🔭 I work for a food supplement company as a senior operator
 - 💡 I like mma, photography and mountain walks
 - 📫 Email to contant me - **iliq_tsvetkov@mail.com** or **iliq_tsvetkov@students.softuni.bg**
-- 📚 I am currently learning Python Web Development and QA in Software University (SoftUni)
+- 📚 I am currently learning Python Web Development and QA automation in Software University (SoftUni)
 
 <a target="_blank" align="right">
   <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
